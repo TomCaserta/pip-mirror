@@ -1,0 +1,29 @@
+html, body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #fbfbfb;
+    color: #161616;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+}
+
+body {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    text-align: center;
+}
+
+button {
+    background: #767676;
+    font-weight: 600;
+    padding: 10px 15px;
+    text-align: center;
+    color: #fff;
+    border-radius: 5px;
+}
